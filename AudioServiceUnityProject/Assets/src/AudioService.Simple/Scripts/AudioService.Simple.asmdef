@@ -1,0 +1,19 @@
+{
+    "name": "AudioService.Simple",
+    "rootNamespace": "AudioService.Simple",
+    "references": [
+        "GUID:cfcbc445a5dc12e42a3b38e596ddedf3",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:54a2c7e87b2e33c4682fe98c62bb2fe5",
+        "GUID:cb63c1fc9fe0b5f4981fa4204c07923e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
