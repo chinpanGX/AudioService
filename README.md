@@ -13,7 +13,7 @@ Unity標準の最低限のオーディオ機能を提供するパッケージ
 [AppService](https://github.com/chinpanGX/AppService)
 
 ```
-https://github.com/chinpanGX/AudioService?path=AudioServiceUnityProject/Assets/src/AudioService
+https://github.com/chinpanGX/AudioService.git?path=AudioServiceUnityProject/Assets/src/AudioService
 ```
 
 # 提供している機能
