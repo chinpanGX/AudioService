@@ -15,10 +15,10 @@
         "name": "shota.deai"
     },
     "samples": [
-      {
-        "displayName": "Sample",
-        "description": "AudioServiceのサンプル",
-        "path": "Samples/DemoPlay"
-      }
+        {
+            "displayName": "Sample",
+            "description": "AudioServiceのサンプル",
+            "path": "Samples/DemoPlay"
+        }
     ]
 }
