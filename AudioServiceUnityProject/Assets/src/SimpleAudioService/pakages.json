@@ -1,0 +1,16 @@
+﻿{
+    "name": "com.chinpangx.audioservice",
+    "displayName": "AppService.Core",
+    "version": "1.0.0",
+    "description": "Unity標準の最低限のオーディオの機能を提供するパッケージ",
+    "dependencies": {
+        "com.unity.addressable": "2.3.16",
+        "com.cysharp.unitask": "2.5.10",
+        "com.cysharp.r3": "1.3.0",
+        "com.chinpangx.appcore": "1.0.0",
+        "com.chinpangx.appservice": "1.0.0"
+    },
+    "author": {
+        "name": "shota.deai"
+    }
+}
