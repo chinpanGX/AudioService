@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3923125441866242225}
   - component: {fileID: 2467500766001413014}
   - component: {fileID: 3143762807799549899}
-  - component: {fileID: 6341645114912232508}
+  - component: {fileID: 8017521774841535548}
   m_Layer: 5
   m_Name: SampleTopView
   m_TagString: Untagged
@@ -116,7 +116,7 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 1
---- !u!114 &6341645114912232508
+--- !u!114 &8017521774841535548
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 530668198142626548}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91390d56d95d42fca79931ce1c1548d4, type: 3}
+  m_Script: {fileID: 11500000, guid: 532aeb2b2fe4e84468b386d7226e9afe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 1616495020932836731}

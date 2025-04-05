@@ -15,21 +15,26 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: bb5fd85798e83044091e2d6d3a1c863a
   m_SerializeEntries:
-  - m_GUID: 431398623062c844092f3ebec4f7186f
-    m_Address: Assets/Sample/Prefabs/AudioSettingView.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 650c16ee4768ea441b87532e9a696e80
-    m_Address: Assets/Sample/Prefabs/SampleTopView.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 70fe9bccc66808547a6ea1939fd20025
+  - m_GUID: 469e0f78f786977489f0b495711c3755
     m_Address: Assets/Sample/SampleAudio
     m_ReadOnly: 0
     m_SerializedLabels:
     - Audio
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5df8434bad0a1724fbc9da4e5de491bd
+    m_Address: Assets/Sample/Prefabs/VolumeElement.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f271320f4a886042bf386b9f63a22c4
+    m_Address: Assets/Sample/Prefabs/SampleTopView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5b0f847b95129c44a43872279cbe601
+    m_Address: Assets/Sample/Prefabs/AudioSettingView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 1056d0c0226acd34a963be0842a4c943, type: 2}

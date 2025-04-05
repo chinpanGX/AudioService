@@ -13,12 +13,5 @@
     },
     "author": {
         "name": "shota.deai"
-    },
-    "samples": [
-        {
-            "displayName": "Sample SimpleAudioService",
-            "description": "AudioServiceのサンプル",
-            "path": "Samples~/DemoPlay"
-        }
-    ]
+    }
 }

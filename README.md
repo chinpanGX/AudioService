@@ -4,7 +4,7 @@
 Unity標準の最低限のオーディオ機能を提供するパッケージ
 
 # セットアップ手順
-**Addressable**の導入が必須
+**Addressables**の導入が必須
 
 以下のパッケージの導入手順は、各リポジトリのREADME.mdを参照してください。
 
@@ -17,10 +17,9 @@ https://github.com/chinpanGX/AudioService.git?path=AudioServiceUnityProject/Asse
 ```
 
 # 提供している機能
-1. BGMの再生、停止
-2. SEの再生
-3. マスター、BGM、SEのボリューム変更
-4. ボリュームの値をPlayerPrefsに保存する
-
-
-# サンプルの利用方法
+1. Labelが **"Audio"** の Addressablesに登録してあるAudioClipを一括でロードをする
+2. BGMの再生、停止
+3. SEの再生
+4. マスター、BGM、SEのボリューム変更
+5. ボリュームの値をPlayerPrefsに保存する
+6. AppServiceのCustomButtonを拡張して、ボタンタップ時に任意のSEを再生する
