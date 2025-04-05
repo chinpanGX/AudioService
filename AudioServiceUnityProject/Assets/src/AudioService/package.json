@@ -16,9 +16,9 @@
     },
     "samples": [
         {
-            "displayName": "Sample",
+            "displayName": "Sample SimpleAudioService",
             "description": "AudioServiceのサンプル",
-            "path": "Samples/DemoPlay"
+            "path": "Samples~/DemoPlay"
         }
     ]
 }
