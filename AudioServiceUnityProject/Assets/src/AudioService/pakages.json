@@ -1,6 +1,6 @@
 ﻿{
     "name": "com.chinpangx.audioservice",
-    "displayName": "AppService.Core",
+    "displayName": "AppService",
     "version": "1.0.0",
     "description": "Unity標準の最低限のオーディオの機能を提供するパッケージ",
     "dependencies": {
