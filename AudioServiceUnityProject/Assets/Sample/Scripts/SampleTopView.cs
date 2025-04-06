@@ -78,7 +78,7 @@ namespace Sample
         
         public void Pop()
         {
-            ViewScreen.Pop();
+            ViewScreen.Pop(this);
         }
         
         public void Open()

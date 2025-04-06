@@ -37,7 +37,7 @@ namespace Sample
         
         public void Pop()
         {
-            ModalScreen.Pop();
+            ModalScreen.Pop(this);
         }
         
         public void Open()

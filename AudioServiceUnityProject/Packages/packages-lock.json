@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "0e0678287e7d3737c3219ba195c49f0d155e89f3"
+      "hash": "5b96de13f632a25bb30b7f5c4346946b2fb6a178"
     },
     "com.chinpangx.appservice": {
       "version": "https://github.com/chinpanGX/AppService.git?path=AppServiceUnityProject/Assets/src/AppService",
