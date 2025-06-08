@@ -1,3 +1,7 @@
+> [!CAUTION]
+> [UniVerseKit](https://github.com/chinpanGX/UniVerseKit)へ、本機能を統合しました。こちらの利用を推奨しています。
+
+
 # AudioService
 
 # 概要
